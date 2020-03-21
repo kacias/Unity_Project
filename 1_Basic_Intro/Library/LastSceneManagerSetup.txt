@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/Unity3D_Project/Tutorial/2_Basic_Collision/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
