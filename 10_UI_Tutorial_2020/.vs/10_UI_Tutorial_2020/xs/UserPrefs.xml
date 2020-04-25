@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{002BF570-A6FA-B294-20F5-77566F96B185}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/UI_Manager.cs">
+    <Files>
+      <File FileName="Assets/Script/UI_Manager.cs" Line="12" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="10_UI_Tutorial_2020" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="UI_Manager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9febe9b9-5f48-4680-be59-f1f1c7f1e822" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
