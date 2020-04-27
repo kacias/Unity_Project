@@ -8,10 +8,7 @@ public class UI_Manager_Script : MonoBehaviour
 
     public InputField input_name;
     //[SerializeField] private InputField input_name;
-
     public Slider my_slider; 
-
-
     public static bool bFlip; 
 
     // Start is called before the first frame update
