@@ -1,0 +1,183 @@
+﻿#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+
+
+
+// 0x00000001 System.Void GoogleAdMobController::Start()
+extern void GoogleAdMobController_Start_m8F86D3A6CEB779763673B10E38307A7003B13B83 ();
+// 0x00000002 System.Void GoogleAdMobController::HandleInitCompleteAction(GoogleMobileAds.Api.InitializationStatus)
+extern void GoogleAdMobController_HandleInitCompleteAction_m71B2F952697A6EE9AC23C1DE1B76401352C070F0 ();
+// 0x00000003 System.Void GoogleAdMobController::Update()
+extern void GoogleAdMobController_Update_mB895EADE27CD0F785F4F3FC9A453EE790F81D2CE ();
+// 0x00000004 GoogleMobileAds.Api.AdRequest GoogleAdMobController::CreateAdRequest()
+extern void GoogleAdMobController_CreateAdRequest_mA803ECB30D1016F80CDC84BDA837B21AC048D1F8 ();
+// 0x00000005 System.Void GoogleAdMobController::RequestBannerAd()
+extern void GoogleAdMobController_RequestBannerAd_m4AF4C376E4D82CDCC1BC9A0C856971D5BE9D635F ();
+// 0x00000006 System.Void GoogleAdMobController::DestroyBannerAd()
+extern void GoogleAdMobController_DestroyBannerAd_mDBD88EEA815A8995952A9346212F8C0B1D87261B ();
+// 0x00000007 System.Void GoogleAdMobController::RequestAndLoadInterstitialAd()
+extern void GoogleAdMobController_RequestAndLoadInterstitialAd_m8C64247C3C1E69D856EC126065581BF731B566E2 ();
+// 0x00000008 System.Void GoogleAdMobController::ShowInterstitialAd()
+extern void GoogleAdMobController_ShowInterstitialAd_m3148AD72D3D5F8732FD9CE238EEEF91885BFD9B6 ();
+// 0x00000009 System.Void GoogleAdMobController::DestroyInterstitialAd()
+extern void GoogleAdMobController_DestroyInterstitialAd_m08DB010772E06C11D2AD932C02E66119C97495FA ();
+// 0x0000000A System.Void GoogleAdMobController::RequestAndLoadRewardedAd()
+extern void GoogleAdMobController_RequestAndLoadRewardedAd_m9784D625261A8098046CA07865CE3973293D6380 ();
+// 0x0000000B System.Void GoogleAdMobController::ShowRewardedAd()
+extern void GoogleAdMobController_ShowRewardedAd_mF08D0624EDB45FFC2F2751E996E2AA26C44DAA9B ();
+// 0x0000000C System.Void GoogleAdMobController::.ctor()
+extern void GoogleAdMobController__ctor_m3BC1C4A322FB7ABBA177BF0EE4A219C6CF0B6BFE ();
+// 0x0000000D System.Void GoogleAdMobController::<HandleInitCompleteAction>b__15_0()
+extern void GoogleAdMobController_U3CHandleInitCompleteActionU3Eb__15_0_mAAF1D8A3F8D57329309C7AB83D879434FE09979F ();
+// 0x0000000E System.Void GoogleAdMobController::<RequestBannerAd>b__18_0(System.Object,System.EventArgs)
+extern void GoogleAdMobController_U3CRequestBannerAdU3Eb__18_0_m4B636177642E27CD87336DF88A61845E976F3211 ();
+// 0x0000000F System.Void GoogleAdMobController::<RequestBannerAd>b__18_1(System.Object,GoogleMobileAds.Api.AdFailedToLoadEventArgs)
+extern void GoogleAdMobController_U3CRequestBannerAdU3Eb__18_1_m5F91AE3C0DE2D4A248C1A837513A90CAE159A545 ();
+// 0x00000010 System.Void GoogleAdMobController::<RequestBannerAd>b__18_2(System.Object,System.EventArgs)
+extern void GoogleAdMobController_U3CRequestBannerAdU3Eb__18_2_mCA46984F36089333718555C7AD1FC8D13A2B40F8 ();
+// 0x00000011 System.Void GoogleAdMobController::<RequestBannerAd>b__18_3(System.Object,System.EventArgs)
+extern void GoogleAdMobController_U3CRequestBannerAdU3Eb__18_3_m1D0220EFB9B5ECD1387BDEC0C49BE9A4323CC3E2 ();
+// 0x00000012 System.Void GoogleAdMobController::<RequestBannerAd>b__18_4(System.Object,System.EventArgs)
+extern void GoogleAdMobController_U3CRequestBannerAdU3Eb__18_4_mF4F0FD9583DA9B0113EF4202542FCCF33F9CD761 ();
+// 0x00000013 System.Void GoogleAdMobController::<RequestAndLoadInterstitialAd>b__20_0(System.Object,System.EventArgs)
+extern void GoogleAdMobController_U3CRequestAndLoadInterstitialAdU3Eb__20_0_m43B1FFE8E3ACAB9712010F02BE26B91838471073 ();
+// 0x00000014 System.Void GoogleAdMobController::<RequestAndLoadInterstitialAd>b__20_1(System.Object,GoogleMobileAds.Api.AdFailedToLoadEventArgs)
+extern void GoogleAdMobController_U3CRequestAndLoadInterstitialAdU3Eb__20_1_mF0F6BC0C05B72F4C975A7FD465B1A56B9BB386A9 ();
+// 0x00000015 System.Void GoogleAdMobController::<RequestAndLoadInterstitialAd>b__20_2(System.Object,System.EventArgs)
+extern void GoogleAdMobController_U3CRequestAndLoadInterstitialAdU3Eb__20_2_m7319F84C1E0F77603759F03603628E7ED8F43E53 ();
+// 0x00000016 System.Void GoogleAdMobController::<RequestAndLoadInterstitialAd>b__20_3(System.Object,System.EventArgs)
+extern void GoogleAdMobController_U3CRequestAndLoadInterstitialAdU3Eb__20_3_m6CF1E46814BFC4C5FEC696C20450E22034CA595C ();
+// 0x00000017 System.Void GoogleAdMobController::<RequestAndLoadInterstitialAd>b__20_4(System.Object,System.EventArgs)
+extern void GoogleAdMobController_U3CRequestAndLoadInterstitialAdU3Eb__20_4_mB637E278E62834F2A759B4B2C8C20596B960F868 ();
+// 0x00000018 System.Void GoogleAdMobController::<RequestAndLoadRewardedAd>b__23_0(System.Object,System.EventArgs)
+extern void GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_0_mDFF3FC28FB668DC18EAFC8168271E90DF1E52EAD ();
+// 0x00000019 System.Void GoogleAdMobController::<RequestAndLoadRewardedAd>b__23_1(System.Object,GoogleMobileAds.Api.AdErrorEventArgs)
+extern void GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_1_mB046B16DB07D4B68BC9DBB148F806D74FCA04636 ();
+// 0x0000001A System.Void GoogleAdMobController::<RequestAndLoadRewardedAd>b__23_2(System.Object,System.EventArgs)
+extern void GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_2_m447582C0604F4643238509711BD575F4D2F6BE6F ();
+// 0x0000001B System.Void GoogleAdMobController::<RequestAndLoadRewardedAd>b__23_3(System.Object,GoogleMobileAds.Api.AdErrorEventArgs)
+extern void GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_3_mDFB5DD8C2FC0A2E1F17D65E9D04293B4C1ECB356 ();
+// 0x0000001C System.Void GoogleAdMobController::<RequestAndLoadRewardedAd>b__23_4(System.Object,System.EventArgs)
+extern void GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_4_m383C275FD8320BB7C7F8DE188142CB8B5C730F39 ();
+// 0x0000001D System.Void GoogleAdMobController::<RequestAndLoadRewardedAd>b__23_5(System.Object,GoogleMobileAds.Api.Reward)
+extern void GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_5_mB52C4F4CE0C818FFFB94E0B8C74A3BDED54D3C03 ();
+// 0x0000001E System.Void GoogleAdMobController2::Start()
+extern void GoogleAdMobController2_Start_m6A39F76592ECEA5005C819FBCC8E3AAC6DB113E2 ();
+// 0x0000001F System.Void GoogleAdMobController2::RequestBanner()
+extern void GoogleAdMobController2_RequestBanner_mA6EE2D0B227A0B2A7EBE1454FDCE259C69C8FC40 ();
+// 0x00000020 System.Void GoogleAdMobController2::.ctor()
+extern void GoogleAdMobController2__ctor_mD381BF8732FAF46F75AA12122B7188E935AEF391 ();
+// 0x00000021 System.Void GoogleAdMobController2_<>c::.cctor()
+extern void U3CU3Ec__cctor_m95D8280219DC836D8651053584E6DD120F3BE85C ();
+// 0x00000022 System.Void GoogleAdMobController2_<>c::.ctor()
+extern void U3CU3Ec__ctor_m5F5403A9500E35B0C4159AE2473F453DA96C60ED ();
+// 0x00000023 System.Void GoogleAdMobController2_<>c::<Start>b__1_0(GoogleMobileAds.Api.InitializationStatus)
+extern void U3CU3Ec_U3CStartU3Eb__1_0_m504ED62CA8FFAC659F50429B3AF1FB3F15AA4BA0 ();
+static Il2CppMethodPointer s_methodPointers[35] = 
+{
+	GoogleAdMobController_Start_m8F86D3A6CEB779763673B10E38307A7003B13B83,
+	GoogleAdMobController_HandleInitCompleteAction_m71B2F952697A6EE9AC23C1DE1B76401352C070F0,
+	GoogleAdMobController_Update_mB895EADE27CD0F785F4F3FC9A453EE790F81D2CE,
+	GoogleAdMobController_CreateAdRequest_mA803ECB30D1016F80CDC84BDA837B21AC048D1F8,
+	GoogleAdMobController_RequestBannerAd_m4AF4C376E4D82CDCC1BC9A0C856971D5BE9D635F,
+	GoogleAdMobController_DestroyBannerAd_mDBD88EEA815A8995952A9346212F8C0B1D87261B,
+	GoogleAdMobController_RequestAndLoadInterstitialAd_m8C64247C3C1E69D856EC126065581BF731B566E2,
+	GoogleAdMobController_ShowInterstitialAd_m3148AD72D3D5F8732FD9CE238EEEF91885BFD9B6,
+	GoogleAdMobController_DestroyInterstitialAd_m08DB010772E06C11D2AD932C02E66119C97495FA,
+	GoogleAdMobController_RequestAndLoadRewardedAd_m9784D625261A8098046CA07865CE3973293D6380,
+	GoogleAdMobController_ShowRewardedAd_mF08D0624EDB45FFC2F2751E996E2AA26C44DAA9B,
+	GoogleAdMobController__ctor_m3BC1C4A322FB7ABBA177BF0EE4A219C6CF0B6BFE,
+	GoogleAdMobController_U3CHandleInitCompleteActionU3Eb__15_0_mAAF1D8A3F8D57329309C7AB83D879434FE09979F,
+	GoogleAdMobController_U3CRequestBannerAdU3Eb__18_0_m4B636177642E27CD87336DF88A61845E976F3211,
+	GoogleAdMobController_U3CRequestBannerAdU3Eb__18_1_m5F91AE3C0DE2D4A248C1A837513A90CAE159A545,
+	GoogleAdMobController_U3CRequestBannerAdU3Eb__18_2_mCA46984F36089333718555C7AD1FC8D13A2B40F8,
+	GoogleAdMobController_U3CRequestBannerAdU3Eb__18_3_m1D0220EFB9B5ECD1387BDEC0C49BE9A4323CC3E2,
+	GoogleAdMobController_U3CRequestBannerAdU3Eb__18_4_mF4F0FD9583DA9B0113EF4202542FCCF33F9CD761,
+	GoogleAdMobController_U3CRequestAndLoadInterstitialAdU3Eb__20_0_m43B1FFE8E3ACAB9712010F02BE26B91838471073,
+	GoogleAdMobController_U3CRequestAndLoadInterstitialAdU3Eb__20_1_mF0F6BC0C05B72F4C975A7FD465B1A56B9BB386A9,
+	GoogleAdMobController_U3CRequestAndLoadInterstitialAdU3Eb__20_2_m7319F84C1E0F77603759F03603628E7ED8F43E53,
+	GoogleAdMobController_U3CRequestAndLoadInterstitialAdU3Eb__20_3_m6CF1E46814BFC4C5FEC696C20450E22034CA595C,
+	GoogleAdMobController_U3CRequestAndLoadInterstitialAdU3Eb__20_4_mB637E278E62834F2A759B4B2C8C20596B960F868,
+	GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_0_mDFF3FC28FB668DC18EAFC8168271E90DF1E52EAD,
+	GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_1_mB046B16DB07D4B68BC9DBB148F806D74FCA04636,
+	GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_2_m447582C0604F4643238509711BD575F4D2F6BE6F,
+	GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_3_mDFB5DD8C2FC0A2E1F17D65E9D04293B4C1ECB356,
+	GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_4_m383C275FD8320BB7C7F8DE188142CB8B5C730F39,
+	GoogleAdMobController_U3CRequestAndLoadRewardedAdU3Eb__23_5_mB52C4F4CE0C818FFFB94E0B8C74A3BDED54D3C03,
+	GoogleAdMobController2_Start_m6A39F76592ECEA5005C819FBCC8E3AAC6DB113E2,
+	GoogleAdMobController2_RequestBanner_mA6EE2D0B227A0B2A7EBE1454FDCE259C69C8FC40,
+	GoogleAdMobController2__ctor_mD381BF8732FAF46F75AA12122B7188E935AEF391,
+	U3CU3Ec__cctor_m95D8280219DC836D8651053584E6DD120F3BE85C,
+	U3CU3Ec__ctor_m5F5403A9500E35B0C4159AE2473F453DA96C60ED,
+	U3CU3Ec_U3CStartU3Eb__1_0_m504ED62CA8FFAC659F50429B3AF1FB3F15AA4BA0,
+};
+static const int32_t s_InvokerIndices[35] = 
+{
+	23,
+	26,
+	23,
+	14,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	27,
+	27,
+	27,
+	27,
+	27,
+	27,
+	27,
+	27,
+	27,
+	27,
+	27,
+	27,
+	27,
+	27,
+	27,
+	27,
+	23,
+	23,
+	23,
+	3,
+	23,
+	26,
+};
+extern const Il2CppCodeGenModule g_AssemblyU2DCSharpCodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharpCodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	35,
+	s_methodPointers,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+};

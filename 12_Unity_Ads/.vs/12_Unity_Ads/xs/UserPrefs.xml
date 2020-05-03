@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B2505D58-2CE6-86DA-0577-6F0D7C16A1F9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI_Manager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UI_Manager.cs" Line="15" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="12_Unity_Ads" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="UI_Manager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="72f2d723-1204-44f3-b226-583bffe783e5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
