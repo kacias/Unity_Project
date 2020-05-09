@@ -8,19 +8,25 @@ using UnityEngine.SceneManagement;
 
 public class GameManger : MonoBehaviour
 {
+
+    //블럭 스프라이트 3종 
     public GameObject block0;
     public GameObject block1;
     public GameObject block2;
 
+    //테스트용 배열 
     public int[,] array = new int[3, 3];
 
-
+    //점수 
     public int score = 0;
     public Text countText;
 
-    private int time = 100;
+    //초기 시간 
+    private int time = 1000;
     public Text TimeText;
-    
+
+    //파티클 
+    public GameObject particle_success;
 
 
     // Start is called before the first frame update
@@ -50,7 +56,6 @@ public class GameManger : MonoBehaviour
                 if (array[x,y] == 0)
                 {     
                     Instantiate(block0, new Vector3(x_pos,y_pos,0), Quaternion.identity);
-
                 }
                 else if (array[x,y] == 1)
                 {     
@@ -75,6 +80,7 @@ public class GameManger : MonoBehaviour
         Vector2 clickPos;
 
 
+        //시간이 0이 되면 실패 
         if  (time >= 1)
         {
             time -= 1;
@@ -91,14 +97,39 @@ public class GameManger : MonoBehaviour
         }
 
 
+        //점수가 1000점 이상이면 성공 
+        if (score > 1000)
+        {
 
+            SceneManager.LoadScene("game_clear");
+
+
+        }
+
+
+        //충돌 시 파티클 생성 및 대상 오브젝트 색깔 변경 
         if (Input.GetMouseButtonDown(0))
         {
             worldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             clickPos = new Vector2(worldPos.x, worldPos.y);
             clickColl = Physics2D.OverlapPoint(clickPos);
 
-            //Debug.Log(clickColl.gameObject);
+
+
+            //=========================================================================
+            //2D 충돌 처리 
+            RaycastHit2D hit = Physics2D.Raycast(worldPos, transform.forward, 100);
+            Debug.DrawRay(worldPos, transform.forward * 10, Color.red, 0.3f);
+
+            if (hit)
+            {
+                hit.transform.GetComponent<SpriteRenderer>().color = Color.red;                
+                //파티클 생성 
+                Instantiate(particle_success, new Vector2(clickPos.x, clickPos.y), Quaternion.identity);
+
+            }
+
+
 
             try{            
 
@@ -106,7 +137,12 @@ public class GameManger : MonoBehaviour
                 {
                     score += 1;
                     countText.text = "Count: " + score.ToString();
-                    Debug.Log("Block1"); 
+                    Debug.Log("Block1");
+
+
+
+                    
+                    
                 }
                 else if (clickColl.gameObject.tag == "Block2")
                 {

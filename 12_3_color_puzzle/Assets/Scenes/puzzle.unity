@@ -649,6 +649,7 @@ MonoBehaviour:
   score: 0
   countText: {fileID: 640902680}
   TimeText: {fileID: 332706296}
+  particle_success: {fileID: 115230, guid: 3c6db358c850b4c43ba29dc692232d57, type: 3}
 --- !u!4 &1693242869
 Transform:
   m_ObjectHideFlags: 0
