@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{978039A5-52B3-7F3A-8CCB-2F0D616185BC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GoogleAdMobController2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GoogleAdMobController2.cs" Line="17" Column="31" />
+      <File FileName="Assets/Scripts/GoogleAdMobController.cs" Line="41" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="11_Google_Admob" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0218a34b-693e-40e1-9f9f-d82cf18ef235" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
