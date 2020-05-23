@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AE95CDC5-7E13-E230-0A72-01643DFB937C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GameManger.cs">
+    <Files>
+      <File FileName="Assets/Script/GameManger.cs" Line="124" Column="21" />
+      <File FileName="Assets/Script/Lobby.cs" Line="26" Column="1" />
+      <File FileName="Assets/Script/Particle_Script.cs" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="12_3_color_puzzle" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="GameManger.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="960a1343-1984-494b-ab56-e8afa793ba3f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
