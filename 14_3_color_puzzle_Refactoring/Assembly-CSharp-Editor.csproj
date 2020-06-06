@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BED58F14-3BAE-D602-235C-44ACC166042E}</ProjectGuid>
+    <ProjectGuid>{9E0AFE09-624B-B0B1-287E-AA813F0E3CA4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -66,55 +66,55 @@
     <Compile Include="Assets\Shared\Ramps\Editor\RampAssetEditor.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids.Editor">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.21f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -312,7 +312,7 @@
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/13_3_color_puzzle_Class/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.21f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -677,7 +677,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{0DB7DBF1-A851-43F2-5CDC-86BCB276837E}</Project>
+      <Project>{BBC2B870-A8AB-9100-03D1-43E8C5375139}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

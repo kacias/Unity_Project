@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{BBC2B870-A8AB-9100-03D1-43E8C5375139}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GameManager_Update.cs">
+    <Files>
+      <File FileName="Assets/Script/Global_Game_Manager.cs" Line="22" Column="1" />
+      <File FileName="Assets/Script/Lobby.cs" Line="33" Column="5" />
+      <File FileName="Assets/Script/CameraShaking.cs" Line="47" Column="1" />
+      <File FileName="Assets/Script/Text_Mesh_Pro_Test.cs" Line="29" Column="1" />
+      <File FileName="Assets/Script/Text_Mesh_Pro_Test2.cs" Line="29" Column="1" />
+      <File FileName="Assets/Script/Text_Mseh_Pro_Combo.cs" Line="29" Column="1" />
+      <File FileName="Assets/Script/GameManager_Update.cs" Line="137" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="14_3_color_puzzle_Refactoring" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="GameManager_Update.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6d7f75a2-7345-4b87-ba16-7e76e4ecb1b8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Assets/Script/Global_Game_Manager.cs" relfile="Assets/Script/Global_Game_Manager.cs" line="30" column="1" />
+      <Breakpoint file="/Users/sjk/Documents/Unity/Unity_Project/14_3_color_puzzle_Refactoring/Assets/Script/CameraShaking.cs" relfile="Assets/Script/CameraShaking.cs" line="41" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
