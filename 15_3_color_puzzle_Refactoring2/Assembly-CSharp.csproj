@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\EffectExamples\Misc Effects\Scripts\SpawnEffect.cs" />
+    <Compile Include="Assets\Script\Abstract_Class.cs" />
     <Compile Include="Assets\Script\Block_Object.cs" />
     <Compile Include="Assets\Script\Bullet.cs" />
     <Compile Include="Assets\Script\CameraShaking.cs" />
@@ -75,6 +76,8 @@
     <Compile Include="Assets\Script\Global_Game_Manager.cs" />
     <Compile Include="Assets\Script\List_Test.cs" />
     <Compile Include="Assets\Script\Lobby.cs" />
+    <Compile Include="Assets\Script\Monster.cs" />
+    <Compile Include="Assets\Script\Monster_Sub.cs" />
     <Compile Include="Assets\Script\Object_Pool_Test.cs" />
     <Compile Include="Assets\Script\Particle_Script.cs" />
     <Compile Include="Assets\Script\Text_Mesh_Pro_Best_Score.cs" />
