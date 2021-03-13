@@ -1,0 +1,114 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1440; Version 1909; 64bit' Language: 'ko' Physical Memory: 32663 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/Unity3D_Project/Unity_Project/0_basic
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49551
+Successfully changed project path to: G:/Unity3D_Project/Unity_Project/0_basic
+G:/Unity3D_Project/Unity_Project/0_basic
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 16.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/Unity3D_Project/Unity_Project/0_basic/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA TITAN RTX (ID=0x1e02)
+    Vendor:   
+    VRAM:     24276 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56844
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009920 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 17.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.041 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000982 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.4 MB.
+System memory in use after: 56.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1528.
+Total: 1.400700 ms (FindLiveObjects: 0.131900 ms CreateObjectMapping: 0.036000 ms MarkObjects: 1.179100 ms  DeleteObjects: 0.052400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Flare.flare
+  artifactKey: Guid(d8c73afab32bbc543a4e8ff863483781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Flare.flare using Guid(d8c73afab32bbc543a4e8ff863483781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '829815809ead0aa263a6b3f31c9b7240') in 0.039402 seconds
+  Import took 0.041226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.562645 seconds.
+  path: Assets/Scenes/Back_Tex.png
+  artifactKey: Guid(69b94ffc2b838aa44aa0299f2378ef52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Back_Tex.png using Guid(69b94ffc2b838aa44aa0299f2378ef52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29a854b1032dcc9321c29251c8ab94e') in 0.150216 seconds
+  Import took 0.153138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Scenes/New Material.mat
+  artifactKey: Guid(3b5682a0090ef014eb9500327afefbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Material.mat using Guid(3b5682a0090ef014eb9500327afefbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'affb7868fa319657ac970697a4b55686') in 0.241180 seconds
+  Import took 0.242824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Scenes/New Material 1.mat
+  artifactKey: Guid(0ef78920182a1eb419444e59c87389ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Material 1.mat using Guid(0ef78920182a1eb419444e59c87389ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53aa32e862c6ba8b748574b573f42f60') in 0.084668 seconds
+  Import took 0.086254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.039177 seconds.
+  path: Assets/Scenes/NewBehaviourScript.cs
+  artifactKey: Guid(998efcd01d5cdc847a16b6f3fda3ec68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/NewBehaviourScript.cs using Guid(998efcd01d5cdc847a16b6f3fda3ec68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '707c20945c767a017955f5b69b707cb4') in 0.039816 seconds
+  Import took 0.041465 seconds .
+
