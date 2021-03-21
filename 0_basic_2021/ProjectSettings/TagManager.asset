@@ -13,13 +13,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PostProcessing
+  - Ground
+  - Environment
+  - Track
+  - CrashObject
+  - Kart
+  - TrainingCheckpoints
   - 
   - 
   - 

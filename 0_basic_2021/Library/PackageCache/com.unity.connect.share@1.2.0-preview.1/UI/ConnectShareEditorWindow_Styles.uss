@@ -1,0 +1,115 @@
+.header-container {
+    flex-direction: row;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.header-thumbnail {
+    background-image: resource('icon-image');
+    width: 64px;
+    height: 64px;
+    -unity-background-scale-mode: scale-to-fit;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+.header-project-info {
+    margin-top: 14px;
+}
+
+.header-project-name {
+    font-size: 14px;
+    -unity-font-style: bold;
+    margin-top: 12px;
+}
+
+.header-user-email {
+    font-size: 14px;
+    margin-top: 4px;
+}
+
+.main-container {
+    align-items: center;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.status-icon {
+    background-image: resource('html5-logo');
+    width: 72px;
+    height: 72px;
+    margin-bottom: 14px;
+    -unity-background-scale-mode: scale-to-fit;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 14px;
+}
+
+.progress-bar {
+    width: 200px;
+}
+
+.progress-label {
+    -unity-font-style: bold;
+    font-size: 14px;
+    margin-top: 14px;
+}
+
+.bottom-button {
+    height: 42px;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+    font-size: 14px;
+    -unity-font-style: bold;
+}
+
+.connect-link {
+    color: rgb(0, 137, 228);
+    font-size: 14px;
+    -unity-font-style: bold;
+    margin-top: 14px;
+    margin-left: 14px;
+    margin-right: 14px;
+    white-space: normal;
+    -unity-text-align: upper-center;
+}
+
+.info-text {
+    margin-top: 14px;
+    white-space: normal;
+    -unity-text-align: upper-center;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-bottom: 14px;
+}
+
+.error-label {
+    margin-top: 14px;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-bottom: 14px;
+    white-space: normal;
+    color: rgb(217, 28, 28);
+    -unity-text-align: upper-center;
+}
+
+.status-icon-error {
+    background-image: resource('icon-error');
+}
+
+.status-icon-account {
+    background-image: resource('icon-account');
+}
+
+.status-icon-processing {
+    background-image: resource('icon-processing');
+}
+
+.status-icon-uploading {
+    background-image: resource('icon-uploading');
+}

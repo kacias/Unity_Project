@@ -13,7 +13,6 @@ public class NewBehaviourScript : MonoBehaviour
         Debug.Log("Hello world");
     }
 
-
     // Update is called once per frame
     void Update()        
     {
@@ -26,7 +25,6 @@ public class NewBehaviourScript : MonoBehaviour
         Debug.Log("c:" + c ); 
 
     }
-
    
     int Add(int a, int b)
     {
@@ -36,7 +34,5 @@ public class NewBehaviourScript : MonoBehaviour
         result = a + b;
         return result; 
     }
-
-
 
 }

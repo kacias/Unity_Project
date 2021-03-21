@@ -1,0 +1,20 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="MainWindow" class="form-container">
+        <Style src="ConnectShareEditorWindow_Upload.uss" />
+        <ui:Label text="Upload and Share your WebGL Game to Unity Connect" name="lblTitle" class="form-title-label" />
+        <ui:Label text="Game Name:" name="lblProjectName" class="project-input-label" />
+        <ui:TextField picking-mode="Ignore" text="Untitled" name="txtProjectName" value="Untitled" class="text-input-container" />
+        <ui:Label text="Thumbnail (Optional):" name="lblProjectThumbnail" class="project-input-label" />
+        <ui:VisualElement name="ThumbnailContainer" class="thumbnail-container">
+            <Style src="ConnectShareEditorWindow_Upload.uss" />
+            <ui:Image name="imgThumbnail" class="thumbnail-preview thumbnail-preview-large" />
+            <ui:Button text="Select Image File..." name="btnSelectImage" class="select-image-button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:Button text="Share" name="btnShare" class="bottom-button">
+        <Style src="ConnectShareEditorWindow_Upload.uss" />
+    </ui:Button>
+    <ui:Label text="Last build located at" name="lblLastBuildInfo" class="last-build-info">
+        <Style src="ConnectShareEditorWindow_Upload.uss" />
+    </ui:Label>
+</ui:UXML>

@@ -1,0 +1,19 @@
+{
+    "name": "Unity.InteractiveTutorials.Core",
+    "references": [
+        "UnityEditor.InteractiveTutorialsFramework",
+        "Unity.InteractiveTutorials.Core.Scripts",
+        "Unity.EditorCoroutines.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
