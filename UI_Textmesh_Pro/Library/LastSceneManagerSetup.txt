@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Painted HQ 2D Forest Medieval Background/Examples/Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

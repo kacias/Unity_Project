@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12386, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - __PanelContainer__rootVisualContainer__main-view-split-view__Unity.UI.Builder.TwoPaneSplitView
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__Unity.UI.Builder.TwoPaneSplitView
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__stylesheet-hierarchy-split-view__Unity.UI.Builder.TwoPaneSplitView
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__stylesheet-hierarchy-split-view__builder-style-sheets__unity-builder-explorer-tree__UnityEngine.UIElements.TreeView
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__stylesheet-hierarchy-split-view__builder-style-sheets__unity-builder-explorer-tree__unity-tree-view__list-view__UnityEngine.UIElements.ListView
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__stylesheet-hierarchy-split-view__builder-style-sheets__unity-builder-explorer-tree__unity-tree-view__list-view__list-view__scroll-view__HorizontalScroller__Slider__UnityEngine.UIElements.Slider
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__stylesheet-hierarchy-split-view__builder-style-sheets__unity-builder-explorer-tree__unity-tree-view__list-view__list-view__scroll-view__VerticalScroller__Slider__UnityEngine.UIElements.Slider
+  - builder-hierarchy__Unity.UI.Builder.BuilderHierarchy
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__stylesheet-hierarchy-split-view__builder-hierarchy__unity-builder-explorer-tree__UnityEngine.UIElements.TreeView
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__stylesheet-hierarchy-split-view__builder-hierarchy__unity-builder-explorer-tree__unity-tree-view__list-view__UnityEngine.UIElements.ListView
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__stylesheet-hierarchy-split-view__builder-hierarchy__unity-builder-explorer-tree__unity-tree-view__list-view__list-view__scroll-view__HorizontalScroller__Slider__UnityEngine.UIElements.Slider
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__stylesheet-hierarchy-split-view__builder-hierarchy__unity-builder-explorer-tree__unity-tree-view__list-view__list-view__scroll-view__VerticalScroller__Slider__UnityEngine.UIElements.Slider
+  - unity-ui-builder-library__Unity.UI.Builder.BuilderLibrary
+  - unity-ui-builder-library-controls-plane__Unity.UI.Builder.BuilderLibraryPlainView
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__unity-ui-builder-library__unity-ui-builder-library-controls-plane__scroll-view__HorizontalScroller__Slider__UnityEngine.UIElements.Slider
+  - __PanelContainer__rootVisualContainer__main-view-split-view__explorer-library-split-view__unity-ui-builder-library__unity-ui-builder-library-controls-plane__scroll-view__VerticalScroller__Slider__UnityEngine.UIElements.Slider
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__Unity.UI.Builder.TwoPaneSplitView
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__viewport-preview-split-view__Unity.UI.Builder.TwoPaneSplitView
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__viewport-preview-split-view__uxml-uss-split-view__Unity.UI.Builder.TwoPaneSplitView
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__Unity.UI.Builder.BuilderInspector
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-attributes-inherited-styles-foldout__builder-inspector-class-list-container-foldout__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-attributes-inherited-styles-foldout__builder-inspector-matching-selectors-container-foldout__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-display__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-position__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-flex__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-align__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-size__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-size__builder-inspector-style-section-foldout-size__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-margin-padding__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-margin-padding__builder-inspector-style-section-foldout-margin__Unity.UI.Builder.FoldoutNumberField
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-margin-padding__builder-inspector-style-section-foldout-padding__Unity.UI.Builder.FoldoutNumberField
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-text__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-background__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-background__builder-inspector-style-section-foldout-unity-slice__Unity.UI.Builder.FoldoutNumberField
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-border__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-border__builder-inspector-style-section-foldout-border-color__Unity.UI.Builder.FoldoutColorField
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-border__builder-inspector-style-section-foldout-border-width__Unity.UI.Builder.FoldoutNumberField
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-border__builder-inspector-style-section-foldout-border-radius__Unity.UI.Builder.FoldoutNumberField
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-cursor__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-attributes-inherited-styles-foldout__builder-inspector-matching-selectors-container-foldout__builder-inspector-rule-foldout__0__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-attributes-inherited-styles-foldout__builder-inspector-matching-selectors-container-foldout__builder-inspector-rule-foldout__1__Unity.UI.Builder.PersistedFoldout
+  - __PanelContainer__rootVisualContainer__Slider__UnityEngine.UIElements.Slider
+  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__viewport-preview-split-view__unity-builder-viewport__canvas__Slider__UnityEngine.UIElements.Slider
+  m_Values:
+  - '{"m_FixedPaneDimension":396.0}'
+  - '{"m_FixedPaneDimension":450.0}'
+  - '{"m_FixedPaneDimension":200.0}'
+  - '{"m_ExpandedItemIds":[]}'
+  - '{"m_ScrollOffset":0.0,"m_ShowAlternatingRowBackgrounds":0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'
+  - '{"m_ElementInfoVisibilityState":0}'
+  - '{"m_ExpandedItemIds":[1]}'
+  - '{"m_ScrollOffset":0.0,"m_ShowAlternatingRowBackgrounds":0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'
+  - '{"m_ShowPackageTemplates":false,"m_ViewMode":0,"m_ActiveTab":0}'
+  - '{"m_SelectedItemId":701355724}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":15.4285888671875}'
+  - '{"m_FixedPaneDimension":300.0}'
+  - '{"m_FixedPaneDimension":20.0}'
+  - '{"m_FixedPaneDimension":200.0}'
+  - '{"m_CachedScrollPositionCount":0,"m_OldestScrollPositionIndex":0,"m_CachedContentHeights":[0.0,0.0,0.0,0.0,0.0],"m_CachedScrollPositions":[{"scrollPosition":0.0,"maxScrollValue":0.0},{"scrollPosition":0.0,"maxScrollValue":0.0},{"scrollPosition":0.0,"maxScrollValue":0.0},{"scrollPosition":0.0,"maxScrollValue":0.0},{"scrollPosition":0.0,"maxScrollValue":0.0}]}'
+  - '{"m_Value":true}'
+  - '{"m_Value":false}'
+  - '{"m_Value":false}'
+  - '{"m_Value":false}'
+  - '{"m_Value":false}'
+  - '{"m_Value":false}'
+  - '{"m_Value":false}'
+  - '{"m_Value":false}'
+  - '{"m_Value":false}'
+  - '{"m_Value":true,"fieldValues":[]}'
+  - '{"m_Value":true,"fieldValues":[]}'
+  - '{"m_Value":false}'
+  - '{"m_Value":false}'
+  - '{"m_Value":true,"fieldValues":[]}'
+  - '{"m_Value":false}'
+  - '{"m_Value":true,"fieldValues":[{"r":0.0,"g":0.0,"b":0.0,"a":255.0},{"r":0.0,"g":0.0,"b":0.0,"a":255.0},{"r":0.0,"g":0.0,"b":0.0,"a":255.0},{"r":0.0,"g":0.0,"b":0.0,"a":255.0}]}'
+  - '{"m_Value":true,"fieldValues":[]}'
+  - '{"m_Value":true,"fieldValues":[]}'
+  - '{"m_Value":false}'
+  - '{"m_Value":false}'
+  - '{"m_Value":false}'
+  - '{"m_Value":42.0,"m_LowValue":0.0,"m_HighValue":100.0}'
+  - '{"m_Value":42.0,"m_LowValue":0.0,"m_HighValue":100.0}'
