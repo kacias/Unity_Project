@@ -1,0 +1,143 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.5f1 (3737af19df53) revision 3618735'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'ko' Physical Memory: 32663 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/Unity3D_Project/Unity_Project/12_3_color_puzzle
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58688
+Successfully changed project path to: G:/Unity3D_Project/Unity_Project/12_3_color_puzzle
+G:/Unity3D_Project/Unity_Project/12_3_color_puzzle
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.5f1 (3737af19df53)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/Unity3D_Project/Unity_Project/12_3_color_puzzle/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA TITAN RTX (ID=0x1e02)
+    Vendor:   NVIDIA
+    VRAM:     24276 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003231 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 22.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.735 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000744 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.706 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1670.
+Total: 1.295000 ms (FindLiveObjects: 0.092400 ms CreateObjectMapping: 0.034100 ms MarkObjects: 1.127800 ms  DeleteObjects: 0.039800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Art
+  artifactKey: Guid(3dad1aeb2ae9f8f428ea90020a9a70fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art using Guid(3dad1aeb2ae9f8f428ea90020a9a70fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a5b411807f56c3156647733b435ba4') in 0.008185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Font
+  artifactKey: Guid(72dbb032bf2cfad44b850f85acc29f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font using Guid(72dbb032bf2cfad44b850f85acc29f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c03e1a0fb678ab970353fce32321f96') in 0.003468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.617942 seconds.
+  path: Assets/Prefab/block1.prefab
+  artifactKey: Guid(5ac6a18d1bdb34a099a69c6a7c1c3c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/block1.prefab using Guid(5ac6a18d1bdb34a099a69c6a7c1c3c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2803ff14f29c83ad6abe480325b3fdfa') in 0.084974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.071953 seconds.
+  path: Assets/Script/GameManger.cs
+  artifactKey: Guid(a0f16d5e9a12946b1b0e6bf579cb8754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/GameManger.cs using Guid(a0f16d5e9a12946b1b0e6bf579cb8754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef92992318c69eac4f63a8ed72e38174') in 0.044182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 86.976864 seconds.
+  path: Assets/Script/Lobby.cs
+  artifactKey: Guid(906692dae5339412299c28eb74f45f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Lobby.cs using Guid(906692dae5339412299c28eb74f45f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70265e1861a420015a1c4e3694cddc9a') in 0.004411 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000851 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.691 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1191 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.6 MB.
+System memory in use after: 65.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1680.
+Total: 1.513000 ms (FindLiveObjects: 0.094100 ms CreateObjectMapping: 0.032600 ms MarkObjects: 1.374900 ms  DeleteObjects: 0.010600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.650110 seconds.
+  path: Assets/Scenes/puzzle.unity
+  artifactKey: Guid(a8639d7da18354166b4d3ebcad2311aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/puzzle.unity using Guid(a8639d7da18354166b4d3ebcad2311aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1d9b8f0930114d1a03ac4ee72986d8') in 0.010440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.701536 seconds.
+  path: Assets/Scenes/lobby.unity
+  artifactKey: Guid(33ab518977ce340579206de124b67f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/lobby.unity using Guid(33ab518977ce340579206de124b67f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87018b5438cf5bb0671d4111544a0a1') in 0.004524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.553660 seconds.
+  path: Assets/Scenes/game_clear.unity
+  artifactKey: Guid(c39d327e21f044a66bd167fee5058bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/game_clear.unity using Guid(c39d327e21f044a66bd167fee5058bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5edc11e7626a4ea65527dcc572c4f2e') in 0.004721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.753678 seconds.
+  path: Assets/Scenes/ending.unity
+  artifactKey: Guid(4a39645a17c534be19f4a79e218b2490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ending.unity using Guid(4a39645a17c534be19f4a79e218b2490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b88cf770159736910858ede324bc6291') in 0.004335 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
